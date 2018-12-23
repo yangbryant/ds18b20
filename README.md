@@ -1,5 +1,5 @@
-# A DHT Mongoose OS library
+# A DS18B20 Mongoose OS library
 
 ## Overview
 
-This is a library for the DHT series of low cost temperature/humidity sensors.
+This is a library for the DS18B20 of temperature sensors.

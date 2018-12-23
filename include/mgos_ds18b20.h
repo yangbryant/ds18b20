@@ -16,13 +16,13 @@
  */
 
 /*
- * DHT sensor API.
+ * DS18B20 sensor API.
  *
  * See https://learn.adafruit.com/dht/overview for more information.
  */
 
-#ifndef CS_MOS_LIBS_DHT_INCLUDE_MGOS_DHT_H_
-#define CS_MOS_LIBS_DHT_INCLUDE_MGOS_DHT_H_
+#ifndef CS_MOS_LIBS_DHT_INCLUDE_MGOS_DS18B20_H_
+#define CS_MOS_LIBS_DHT_INCLUDE_MGOS_DS18B20_H_
 
 #include <math.h>
 #include <stdbool.h>

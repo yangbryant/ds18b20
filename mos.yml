@@ -1,6 +1,6 @@
-author: mongoose-os
+author: Srefan
 type: lib
-description: A DHT lib
+description: A DS18B20 lib
 version: 1.0
 
 sources:
